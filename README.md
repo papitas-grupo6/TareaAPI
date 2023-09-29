@@ -1,6 +1,6 @@
-<h1 style="color: green">TareaAPI</h1>
+<h1 style="color: green">TareaAPI:</h1>
 <h2>🍟Importante🍟: </h2>
-<p>Para registrar o crear nuevos usuarios que tengan una llave foránea<span style="color: yellow">(FK)</span> 
+<p>🥔Para registrar o crear nuevos usuarios que tengan una llave foránea<span style="color: yellow">(FK)</span> 
 <strong><p><br>🍟 Se debe crear un <u>Comentario</u>:</strong> <br></p>
 
 ```JSON
@@ -12,7 +12,7 @@
 }
 ```
 
-<p>El <span style="color: yellow">ID</span> de la tarea a asignar la llave foránea<span style="color: yellow">(FK)</span> se ingresa de esta manera <span style="color: yellow">"Tarea": {valor}</span>.</p><br>
+<p>🥔El <span style="color: yellow">ID</span> de la tarea a asignar la llave foránea<span style="color: yellow">(FK)</span> se ingresa de esta manera <span style="color: yellow">"Tarea": {valor}</span>.</p><br>
 <p><strong>🍟Para crear una <u>Tarea</u>:</strong></p>
 
 ```JSON
@@ -24,7 +24,7 @@
 }
 ```
 
-<p>El <span style="color: yellow">ID</span> del comentario para asignar una llave foranea<span style="color: yellow">(FK)</span> se ingresa de esta manera <span style="color: yellow">Comentario {valor}</span>.</p><br>
+<p>🥔El <span style="color: yellow">ID</span> del comentario para asignar una llave foranea<span style="color: yellow">(FK)</span> se ingresa de esta manera <span style="color: yellow">Comentario {valor}</span>.</p><br>
 
 <p><strong>🍟Para crear un <u>Usuario</u>:</strong> </p>
 
@@ -36,8 +36,8 @@
 ```
 
 <h2>🍟Notas🍟:</h2>
-<p>Para el <span style="color: yellow">Endpoint</span> de borrar(en todos los controllers) se ingresa con parametros así:<br><i style="color: yellow">/api/usuario/borrar?id=7</i><br><br>
-Y para los de editar se pasa el <span style="color: yellow">ID</span> por el path.<br>
+<p>🥔Para el <span style="color: yellow">Endpoint</span> de borrar(en todos los controllers) se ingresa con parametros así:<br><i style="color: yellow">/api/usuario/borrar?id=7</i><br><br>
+🥔Para los de editar se pasa el <span style="color: yellow">ID</span> por el path.<br>
 <i style="color: yellow">/api/usuario/editar/1</i></p>
 
 <h3>🍟Endpoints🍟:</h3>
